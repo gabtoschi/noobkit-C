@@ -6,6 +6,7 @@ Data structures and algorithms to be used in fast and simple C classes.
 - **Heap**: a simple static, dynamic allocated heap
 - **Queue**: a simple static, dynamic allocated queue
 - **SimpleList**: a simple list, always ordenated
+- **DoubleList**: a double list, always ordenated
 - **Stack**: a simple static, dynamic allocated stack
 
 ## Graph-Related
